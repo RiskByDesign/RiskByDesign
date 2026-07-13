@@ -20,6 +20,6 @@ Cybersecurity shouldn't be exclusive. I believe everyone deserves access to prac
 
 ## Find me
 
-- Website: **[2600.host](https://2600.host)**
+- Website: **[riskbydesign.net](https://riskbydesign.net)**
 - LinkedIn: [michael-w-b8b551159](https://www.linkedin.com/in/michael-w-b8b551159)
-- Email: [cyber@2600.host](mailto:cyber@2600.host)
+- Email: [cyber@riskbydesign.net](mailto:cyber@riskbydesign.net)
