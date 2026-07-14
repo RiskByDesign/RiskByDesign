@@ -1,6 +1,6 @@
 # Hi, I'm Michael (RiskByDesign)
 
-**Cyber risk quantification and security tooling. Local-first. No cloud. No telemetry.**
+**Cyber risk quantification and security tooling. Local-first. Measurable. Your data belongs to you.**
 
 Cybersecurity shouldn't be exclusive. I believe everyone deserves access to practical, professional grade cybersecurity tools, training, and services, without prohibitive costs or the need for years of technical expertise. My goal is to bridge the gap between complex security practices and real-world usability.
 
@@ -9,7 +9,7 @@ Cybersecurity shouldn't be exclusive. I believe everyone deserves access to prac
 | Project | What it is |
 |---------|------------|
 | [FORLAS CRQ](https://github.com/RiskByDesign/forlas-crq) | Local-first quantitative cyber risk platform built on the FAIR methodology: Monte Carlo simulation, portfolio aggregation, and executive reporting. One executable, one database file you own. **(Beta, free)** |
-| [Calibrated Course](https://github.com/RiskByDesign/Calibrated_Course) | Offline, self-contained HTML tools that train calibrated probability estimation: a practice trainer with Brier scoring plus a nine-module course with a completion certificate. **(Open source)** |
+| [Calibrated Estimation Course](https://github.com/RiskByDesign/Calibrated_Course) | Offline, self-contained HTML tools that train calibrated probability estimation: a practice trainer with Brier scoring plus a nine-module course with a completion certificate. **(Open source)** |
 
 ## What I believe in
 
