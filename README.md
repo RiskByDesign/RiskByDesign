@@ -15,7 +15,7 @@ Cybersecurity shouldn't be exclusive. I believe everyone deserves access to prac
 
 - **Cloud should be a choice.** Adopt cloud services because they suit your needs, not because they're your only option.
 - **Knowledge should be within reach.** Practical cybersecurity expertise should be accessible, understandable, and available to everyone.
-- **Security is attainable.** Effective cybersecurity is built through practical, achievable steps, not unlimited budgets or specialist teams.
+- **Security should be measurable.** Effective cybersecurity is built through decisions you can quantify, defend, and improve, not slogans and heat maps.
 - **Capability over complexity.** The best security solutions are the ones people can confidently use.
 
 ## Find me
