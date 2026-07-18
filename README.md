@@ -17,9 +17,3 @@ Cybersecurity shouldn't be exclusive. I believe everyone deserves access to prac
 - **Knowledge should be within reach.** Practical cybersecurity expertise should be accessible, understandable, and available to everyone.
 - **Security should be measurable.** Effective cybersecurity is built through decisions you can quantify, defend, and improve, not slogans and heat maps.
 - **Capability over complexity.** The best security solutions are the ones people can confidently use.
-
-## Find me
-
-- Website: **[riskbydesign.net](https://riskbydesign.net)**
-- LinkedIn: [michael-w-b8b551159](https://www.linkedin.com/in/michael-w-b8b551159)
-- Email: [cyber@riskbydesign.net](mailto:cyber@riskbydesign.net)
