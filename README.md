@@ -1,5 +1,3 @@
-# Hi, I'm Michael (RiskByDesign)
-
 **Cyber risk quantification and security tooling. Local-first. Measurable. Your data belongs to you.**
 
 Cybersecurity shouldn't be exclusive. I believe everyone deserves access to practical, professional grade cybersecurity tools, training, and services, without prohibitive costs or the need for years of technical expertise. My goal is to bridge the gap between complex security practices and real-world usability.
